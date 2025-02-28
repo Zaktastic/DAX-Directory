@@ -1,7 +1,7 @@
 # DAX-Directory
 My go-to DAX formulas for solving common data challenges.
 
-A personal collection of useful DAX formulas for Power BI and Excel. Organized by category for quick reference and future use.  
+A personal collection of useful DAX formulas for Power BI. Organized by category for quick reference and future use.  
 
 ## Contents  
 - **Time-Intelligence**: YTD, QTD, and other date calculations.  
